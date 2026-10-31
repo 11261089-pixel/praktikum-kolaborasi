@@ -1,0 +1,4 @@
+- Nama: Muhammad Cheirul Junizar Prtama
+- NIM: 11261033
+- Program Studi: Informatika
+- Kontribusi: Memberikan doa terbaik buat tim
