@@ -1,2 +1,2 @@
-# pratikum-kolaborasi
+# praktikum-kolaborasi
 Latihan kolaborasi Git dan Github
